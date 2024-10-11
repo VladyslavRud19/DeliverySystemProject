@@ -1,5 +1,3 @@
-package com.deliverysystem
-
 fun main() {
     val deliverySystem = DeliverySystem()
 
